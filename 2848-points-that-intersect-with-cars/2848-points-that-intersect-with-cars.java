@@ -14,24 +14,24 @@ class Solution {
         // }
         // return set.size();
         //approach via boolean array tc=O(n*100)=O(n)
-        boolean[] arr=new boolean[101];
-        for(int i=0;i<nums.size();i++){
-            int start=nums.get(i).get(0),end=nums.get(i).get(1);
-            for(int j=start;j<=end;j++){
-                arr[j]=true;
-            }
-        }
-        int c=0;
-        for(int i=0;i<arr.length;i++) if(arr[i]==true) c++;
-        return c;
-        //approach via hashset O(n*k)
-        // HashSet<Integer> set=new HashSet<>();
-        //  for(int i=0;i<nums.size();i++){
+        // boolean[] arr=new boolean[101];
+        // for(int i=0;i<nums.size();i++){
         //     int start=nums.get(i).get(0),end=nums.get(i).get(1);
         //     for(int j=start;j<=end;j++){
-        //         set.add(j);
+        //         arr[j]=true;
         //     }
         // }
-        // return set.size();
+        // int c=0;
+        // for(int i=0;i<arr.length;i++) if(arr[i]==true) c++;
+        // return c;
+        //approach via hashset O(n*k)
+        HashSet<Integer> set=new HashSet<>();
+         for(int i=0;i<nums.size();i++){
+            int start=nums.get(i).get(0),end=nums.get(i).get(1);
+            for(int j=start;j<=end;j++){
+                set.add(j);
+            }
+        }
+        return set.size();
     }
 }
