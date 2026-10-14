@@ -26,4 +26,8 @@ I will be posting my leetcode solution in this repo.
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
+## Math
+|  |
+| ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
