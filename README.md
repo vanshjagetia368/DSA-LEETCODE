@@ -32,4 +32,12 @@ I will be posting my leetcode solution in this repo.
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
