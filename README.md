@@ -6,6 +6,7 @@ I will be posting my leetcode solution in this repo.
 ## Array
 |  |
 | ------- |
+| [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -13,6 +14,7 @@ I will be posting my leetcode solution in this repo.
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -27,6 +29,7 @@ I will be posting my leetcode solution in this repo.
 ## Counting
 |  |
 | ------- |
+| [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
