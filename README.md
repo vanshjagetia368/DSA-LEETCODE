@@ -6,6 +6,7 @@ I will be posting my leetcode solution in this repo.
 ## Array
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -13,6 +14,7 @@ I will be posting my leetcode solution in this repo.
 ## Hash Table
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
@@ -25,6 +27,7 @@ I will be posting my leetcode solution in this repo.
 ## String
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting
 |  |
