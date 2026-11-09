@@ -8,6 +8,7 @@ I will be posting my leetcode solution in this repo.
 | ------- |
 | [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
+| [2465-number-of-distinct-averages](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -17,6 +18,7 @@ I will be posting my leetcode solution in this repo.
 | [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
+| [2465-number-of-distinct-averages](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -46,4 +48,12 @@ I will be posting my leetcode solution in this repo.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [2465-number-of-distinct-averages](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2465-number-of-distinct-averages) |
+## Sorting
+|  |
+| ------- |
+| [2465-number-of-distinct-averages](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
