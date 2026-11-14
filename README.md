@@ -17,6 +17,7 @@ I will be posting my leetcode solution in this repo.
 | ------- |
 | [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2465-number-of-distinct-averages) |
 | [2848-points-that-intersect-with-cars](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
@@ -31,6 +32,7 @@ I will be posting my leetcode solution in this repo.
 | ------- |
 | [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
