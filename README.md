@@ -16,6 +16,7 @@ I will be posting my leetcode solution in this repo.
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1436-destination-city) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -36,11 +37,13 @@ I will be posting my leetcode solution in this repo.
 ## Counting
 |  |
 | ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2404-most-frequent-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vanshjagetia368/DSA-LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
